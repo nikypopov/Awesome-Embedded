@@ -4,6 +4,8 @@ A curated list of awesome embedded resource.
 
 Table of content
 
+-[Electronics](#https://www.allaboutcircuits.com/textbook/)
+
 - [Awesome-Embedded](#awesome-embedded)
   - [Interview](#interview)
   - [Embedded Software Skill](#embedded-software-skill)
